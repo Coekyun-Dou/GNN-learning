@@ -19,3 +19,13 @@
 #### 1、WorkGroup 和 Domain
 
 > 工作组和域，其中微软推荐域场的工作管理模式
+
+------
+
+一些想法
+
+1、使用远程桌面服务RDS，连接后用GPU训练模型
+
+2、Hyper -v来实现虚拟化，创建多个虚拟机，每个虚拟机分配特定的硬件资源（通过**基于功能的安装**来启用Hyper-V）
+
+3、看一看这个方法能不能提供可用的思路：[新手教程！远程连接服务器，用GPU算力跑深度学习项目！ -人工智能/机器学习/深度学习_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1xDCbYCEZo/?spm_id_from=333.337.search-card.all.click)
