@@ -37,4 +37,8 @@
 
 #### 9月：
 
+- Windows Server 2022 （因为学校提供的服务器装的是Windows server的操作系统，为了享受算力，只能学会如何使用了）
 - Machine Learning、跟的是周志华老师的西瓜书
+
+
+
